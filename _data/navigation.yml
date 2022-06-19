@@ -1,0 +1,11 @@
+main:
+  - title: "Hacking"
+    url: /hacking/
+  - title: "Guides"
+    url: /guides/
+  - title: "Posts"
+    url: /posts/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
