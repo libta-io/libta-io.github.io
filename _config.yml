@@ -65,7 +65,7 @@ plugins:
 author:
   name   : 
   avatar : "/assets/images/Libta.jpg"
-  bio    : "The words fly away, the writings remain."
+  bio    : "Cybersecurity and computer science."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
