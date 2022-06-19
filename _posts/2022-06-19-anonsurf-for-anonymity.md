@@ -112,5 +112,7 @@ libta@kali:~/anonymity/Anonsurf/kali-anonsurf# anonsurf myip
 libta@kali:~/anonymity/Anonsurf/kali-anonsurf# anonsurf status
 ```
 
+https://user-images.githubusercontent.com/107756764/174494621-9333b408-fe37-499d-b648-c911b9d21dd2.mp4
+
 
 Thanks for reading!
