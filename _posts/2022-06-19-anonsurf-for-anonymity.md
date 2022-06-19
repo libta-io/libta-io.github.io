@@ -112,7 +112,5 @@ libta@kali:~/anonymity/Anonsurf/kali-anonsurf# anonsurf myip
 libta@kali:~/anonymity/Anonsurf/kali-anonsurf# anonsurf status
 ```
 
-<iframe src="https://player.vimeo.com/video/721961797?h=899e56394d&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="ㅤㅤㅤ.mp4"></iframe>
-
 
 Thanks for reading!
