@@ -162,5 +162,4 @@ If an organization merely needs to allow its users to browse the internet anonym
 
 A VPN is better suited for business use because users usually need secure data transmission in both directions. Company information and personnel data can be very valuable in the wrong hands, and a VPN provides the encryption you need to keep it protected. For personal use where a breach would only affect you, a single user, a proxy server may be an adequate choice. You can also use both technologies simultaneously, particularly if you want to limit the websites that users within your network visit while also encrypting their communications.
 
-
 Thanks for reading!
