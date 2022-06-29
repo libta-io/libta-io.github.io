@@ -10,8 +10,9 @@ tags:
   - Guides
   - Proxy
   - Privacy
-  - Data
   - Anonymity
+  - Security
+  - VPN
 ---
 
 <!--more-->
