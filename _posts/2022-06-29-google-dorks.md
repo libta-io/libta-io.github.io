@@ -1,5 +1,5 @@
 ---
-title: "Google Dorks"
+title: "Google Dorks/Hacking"
 header:
 toc: true
 toc_sticky: true
