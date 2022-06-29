@@ -17,7 +17,7 @@ tags:
 
 <!--more-->
 
-## What is Google Dorks?
+# What is Google Dorks?
 
 Google Dorking, also known as Google hacking, is the method capable of returning the information difficult to locate through simple search queries by providing a search string that uses advanced search operators. 
 
@@ -29,7 +29,7 @@ When we talk about Google Dorks or Google Hacking, we are referring to advanced 
 
 To use a Google Dork, you simply type in a Dork into the search box on Google and press “Enter”. Here are some of the best Google Dork queries that you can use to search for information on Google.
 
-## Search Operators
+# Search Operators
 
 **cache**:
 * [cache:www.google.com web] will show the cached content with the word “web” highlighted. This functionality is also accessible by clicking on the “Cached” link on Google’s main results page. The query [cache:] will show the version of the web page that Google has in its cache. For instance, [cache:www.google.com] will show Google’s cache of the Google homepage.
@@ -382,7 +382,7 @@ inurl:opac_css
 inurl:weblogin intitle:("USG20-VPN"|"USG20W-VPN"|USG40|USG40W|USG60|
 ```
 
-## How to safeguard information from Google Dorks?
+# How to safeguard information from Google Dorks?
 
 **You can take the following safety measures to protect your information from being disclosed by google dorks**:
 * Protect pages that contain sensitive information via username and password.
@@ -396,7 +396,7 @@ You can also follow appropriate security mechanisms and prevent systems from exp
 
 [Scraper API](https://www.scraperapi.com/?fp_ref=box-piper-app) provides a proxy service designed for web scraping. With over 20 million residential IPs across 12 countries, as well as software that can handle JavaScript rendering and solving CAPTCHAs, you can quickly complete large scraping jobs without ever having to worry about being blocked by any servers.
 
-## Conclusion
+# Conclusion
 
 Google Search Engine is designed to crawl anything over the internet and this helps us to find images, text, videos, news and plethora of information sources. With it’s tremendous capability to crawl, it indexes data along the way, which also includes sensitive information like email addresses, login credentials, sensitive files, website vulnerabilities, and even financial information.
 
