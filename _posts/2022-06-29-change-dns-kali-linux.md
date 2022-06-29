@@ -144,8 +144,7 @@ nameserver 8.8.4.4
 
 ### NetworkManager & resolvconf
 
-- Restart NetworkManager service and resolvconf.service after making all changes.
-Upon restart, you can see the modified resolvconf file
+- Restart NetworkManager service and resolvconf.service after making all changes
 ```text
 libta@kali:~# sudo systemctl restart NetworkManager
 libta@kali:~# sudo systemctl restart resolvconf.service
