@@ -19,13 +19,13 @@ tags:
 
 ## Table of Contents <!-- omit in toc -->
 
-- [What is Google Dorks?](#What is Google Dorks?)
-  - [How to Use Google Dorks?](How to Use Google Dorks?)
-- [Search Operators](Search Operators)
-  - [Google Dorks Updated Database](Google Dorks Updated Database)
-  - [Special search string to find vulnerable websites](Special search string to find vulnerable websites)
-- [How to safeguard information from Google Dorks?](How to safeguard information from Google Dorks?)
-- [Conclusion](Conclusion)
+- [What is Google Dorks?](#what-is-google-dorks?)
+  - [How to Use Google Dorks?](how-to-use-google-dorks?)
+- [Search Operators](search-operators)
+  - [Google Dorks Updated Database](google-dorks-updated-database)
+  - [Special search string to find vulnerable websites](special-search-string-to-find-vulnerable-websites)
+- [How to safeguard information from Google Dorks?](how-to-safeguard-information-from-google-dorks?)
+- [Conclusion](conclusion)
 
 ## What is Google Dorks?
 
