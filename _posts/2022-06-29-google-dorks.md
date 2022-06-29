@@ -387,10 +387,7 @@ inurl:weblogin intitle:("USG20-VPN"|"USG20W-VPN"|USG40|USG40W|USG60|
 **You can take the following safety measures to protect your information from being disclosed by google dorks**:
 * Protect pages that contain sensitive information via username and password.
 * Run regular dork queries against your website to discover the sensitive information.
-* Request removal of sensitive information if found via google search console
-
-[(https://support.google.com/webmasters/answer/9689846?hl=en&visit_id=637871614748203924-38706967&rd=1)]
-
+* [Request removal of sensitive information](https://support.google.com/webmasters/answer/9689846?hl=en&visit_id=637871614748203924-38706967&rd=1) if found via google search console
 * Block sensitive content by using a robots.txt file located in your root-level website directory.
 
 Google Search is very useful as well as equally harmful at the same time. Because it indexes everything available over the web.
