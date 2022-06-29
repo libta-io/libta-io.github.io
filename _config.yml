@@ -8,7 +8,7 @@
 # locale: en-GB
 title: libta.io
 subtitle: "Cybersecurity and IT."
-description: "Cybersecurity and IT."
+description: "IT and cybersecurity enthusiast."
 repository: "libta-io/libta-io.github.io"
 
 github_username: libta-io
@@ -65,7 +65,7 @@ plugins:
 author:
   name   : 
   avatar : "/assets/images/Libta.jpg"
-  bio    : "Cybersecurity and IT."
+  bio    : "IT and cybersecurity enthusiast."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
