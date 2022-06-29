@@ -403,13 +403,11 @@ inurl:weblogin intitle:("USG20-VPN"|"USG20W-VPN"|USG40|USG40W|USG60|
 https://support.google.com/webmasters/answer/9689846?hl=en&visit_id=637871614748203924-38706967&rd=1
 * Block sensitive content by using a robots.txt file located in your root-level website directory.
 
-**Note**:
 Google Search is very useful as well as equally harmful at the same time. Because it indexes everything available over the web.
 
 You can also follow appropriate security mechanisms and prevent systems from exposing sensitive data. Follow [OWASP](https://owasp.org/), which provides a standard awareness document for developers and web application security.
 
 [Scraper API](https://www.scraperapi.com/?fp_ref=box-piper-app) provides a proxy service designed for web scraping. With over 20 million residential IPs across 12 countries, as well as software that can handle JavaScript rendering and solving CAPTCHAs, you can quickly complete large scraping jobs without ever having to worry about being blocked by any servers.
-
 
 ## Conclusion
 
