@@ -18,7 +18,8 @@ tags:
 
 <!--more-->
 
-## What is Anonsurf?
+## Anonsurf
+### What is Anonsurf?
 
 Anonsurf is one of the good anonymizing tools of Linux distribution. It helps us make our network tunnel secure. This tool uses TOR iptables to anonymize our network system. Anonsurf is a tool that will help you stay anonymous by routing every packet through TOR relay. When you use Anonsurf for ethical hacking, all the traffic from your system goes through a TOR proxy server due to which your IP address is changed.
 
@@ -26,13 +27,12 @@ Anonsurf is one of the good anonymizing tools of Linux distribution. It helps us
 
 First of all, you can make a separate directory for this tool for your convenience and git clone the following URL or you can simply run this command in the terminal:
 
-**For a separate directory**:
-
+- For a separate directory
 ```text
 libta@kali:~/anonymity# mkdir Anonsurf && cd Anonsurf
 ```
 
-**Clone the URL in your terminal**:
+- Clone the URL in your terminal
 ```text
 libta@kali:~/anonymity/Anonsurf# git clone https://github.com/Und3rf10w/kali-anonsurf.git
 Cloning into 'kali-anonsurf'...
@@ -41,8 +41,7 @@ remote: Total 321 (delta 0), reused 0 (delta 0), pack-reused 321
 Receiving objects: 100% (321/321), 167.72 KiB | 439.08 KiB/s, done.
 Resolving deltas: 100% (99/99), done.
 ```
-
-**Now change the directory and go to the kali-anonsurf run the installer script:**
+- Now change the directory and go to the kali-anonsurf run the installer script
 ```text
 libta@kali:~/anonymity/Anonsurf/# cd kali-anonsurf
 ```
@@ -60,9 +59,9 @@ Saving to: '/tmp/i2p-debian-repo.key.asc'
 2022-06-19 17:46:46 (72.1 KB/s) - '/tmp/i2p-debian-repo.key.asc' saved [18019/18019]
 ```
 
-## Usages
+### Usages
 
-**Now run this command for anonsurf start:**
+- Now run this command for anonsurf start
 ```text
 libta@kali:~/anonymity/Anonsurf/kali-anonsurf# sudo anonsurf
 Usage:
@@ -80,34 +79,34 @@ Usage:
  stopi2p - Stop i2p services
 ```
 
-**To start this tool just simply run this command, a pop-up will show on your screen:**
+- To start this tool just simply run this command, a pop-up will show on your screen
 ```text
 libta@kali:~/anonymity/Anonsurf/kali-anonsurf# anonsurf start
 ```
 
-**If this tool isn’t running and you are running the stop command a pop up will show as shown in figure:**
+- If this tool isn’t running and you are running the stop command a pop up will show as shown in figure
 ```text
 libta@kali:~/anonymity/Anonsurf/kali-anonsurf# anonsurf stop
 ```
 
-**You can restart it again if you face any problem during the task:**
+- You can restart it again if you face any problem during the task
 ```text
 libta@kali:~/anonymity/Anonsurf/kali-anonsurf# anonsurf restart
 ```
 
-**To changes identity:**
+- To changes identity
 
 This tool connects our system with the tor browser and if we want to change or IP address then we can use this command, in the following images you can see our system is connected with tor or not.
 ```text
 libta@kali:~/anonymity/Anonsurf/kali-anonsurf# anonsurf change
 ```
 
-**You can check what is current IP address is after connecting with tor network:**
+- You can check what is current IP address is after connecting with tor network
 ```text
 libta@kali:~/anonymity/Anonsurf/kali-anonsurf# anonsurf myip
 ```
 
-**Change status or check the status:**
+- Change status or check the status
 ```text
 libta@kali:~/anonymity/Anonsurf/kali-anonsurf# anonsurf status
 ```
