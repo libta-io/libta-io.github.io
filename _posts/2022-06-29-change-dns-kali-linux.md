@@ -85,6 +85,7 @@ libta@kali:~# sudo systemctl status resolvconf.service
   Main PID: 21102 (code=exited, status=0/SUCESS)
  ESCOC
 ```
+
 - Now you can check the status of resolv.conf file
 ```text
 libta@kali:~# cat /etc/resolv.conf
