@@ -60,7 +60,6 @@ Saving to: '/tmp/i2p-debian-repo.key.asc'
 ```
 
 ### Usages
-
 - Now run this command for anonsurf start
 ```text
 libta@kali:~/anonymity/Anonsurf/kali-anonsurf# sudo anonsurf
