@@ -66,7 +66,6 @@ Processing of triggers for kali-menu (2022.3.0) ...
 Processing of deferred actions ("triggers") for man-db (2.10.2-1) ...                                                                                                   
 Processing of deferred actions ("triggers") for resolvconf (1.91) ...
 ```
-
 - We will check now the service status after hitting the start command to make sure service enters into an active state
 ```text
 libta@kali:~# sudo systemctl enable resolvconf.systemctl
@@ -96,14 +95,12 @@ libta@kali:~# cat /etc/resolv.conf
 
 nameserver 192.168.1.1
 ```
-
 ### Modifying resolvconf base and resolv.conf file with new servers
 
 - You can see that it is still pointing to my router gateway address. First we need to make changes in resolvconf base file and then we will modify network interfaces file
 ```text
 libta@kali:~# sudo nano /etc/resolvconf/resolv.conf.d/base
 ```
-
 Now you need to enter your desired set of nameserver details. I have used [CloudFlare](https://www.cloudflare.com/learning/dns/what-is-1.1.1.1/) and [Google public DNS](https://developers.google.com/speed/public-dns) IP Addresses for demonstartion.
 ```text
 GNU nano 6.3          /etc/resolvconf/resolv.conf/base        Modified
@@ -111,12 +108,10 @@ nameserver 1.1.1.1
 nameserver 8.8.8.8
 nameserver 8.8.4.4
 ```
-
 - Next we will modify the network interfaces file and will enter same set of DNS nameserver details
 ```text
 libta@kali:~# sudo nano /etc/network/interfaces
 ```
-
 - Now enter your dns-nameserver which can be anything or you can use public DNS servers
 ```text
 # This file describes the network interfaces available on your sytem
@@ -130,7 +125,6 @@ iface lo inet loopback
 
 dns-nameserver 1.1.1.1 8.8.8.8 8.8.4.4
 ```
-
 - Now type the command and modify like this
 ```text
 libta@kali:~# sudo nano /etc/resolv.conf
@@ -146,8 +140,8 @@ nameserver 1.1.1.1
 nameserver 8.8.8.8
 nameserver 8.8.4.4
 ```
-
 ### NetworkManager & resolvconf service
+
 - Restart NetworkManager service and resolvconf.service after making all changes.
 When you restart your virtual machine or computer, you can see the resolvconf file modified.
 ```text
@@ -163,7 +157,6 @@ nameserver 1.1.1.1
 nameserver 8.8.8.8
 nameserver 8.8.4.4
 ```
-
 If you don’t see the changes in resolv.conf file as displayed here then you can restart your linux machine. Sometimes you have to restart the machine, but in most cases, restarting the service works.
 
 ## Conclusion
