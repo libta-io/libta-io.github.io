@@ -112,5 +112,4 @@ libta@kali:~/anonymity/Anonsurf/kali-anonsurf# anonsurf myip
 libta@kali:~/anonymity/Anonsurf/kali-anonsurf# anonsurf status
 ```
 
-
 Thanks for reading!
