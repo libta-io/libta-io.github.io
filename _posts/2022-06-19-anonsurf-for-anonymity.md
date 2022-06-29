@@ -7,11 +7,11 @@ excerpt_separator:  <!--more-->
 categories:
   - Hacking
 tags:
+  - Kali
   - Guides
   - Anonymity
   - VPN
   - Proxy
-  - TOR
   - Helpful
   - Privacy
 ---
