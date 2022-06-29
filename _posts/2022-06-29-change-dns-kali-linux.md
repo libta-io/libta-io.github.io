@@ -24,7 +24,8 @@ The Domain Name System (DNS) turns domain names into IP addresses, which browser
 
 A DNS server is a computer with a database containing the public IP addresses associated with the names of the websites an IP address brings a user to. DNS acts like a phonebook for the internet. Whenever people type domain names, like Google.com or Yahoo.com, into the address bar of web browsers, the DNS finds the right IP address. The site’s IP address is what directs the device to go to the correct place to access the site’s data.
 
-## Displaying current configuration of resolv.conf file
+## resolv.conf
+### Displaying current configuration of resolv.conf file
 
 File resolv.conf is located on etc folder path in Kali linux.
 
