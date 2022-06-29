@@ -160,5 +160,4 @@ If you don’t see the changes in resolv.conf file as displayed here then you ca
 
 We have learned here, how to change DNS in Kali linux. These steps can work on other linux distributions too. Changing your DNS server offers several advantages such as avoiding a form of censorship, obtaining a faster DNS resolution, protecting yourself against hacking, or enjoying better performance.
 
-
 Thanks for reading!
