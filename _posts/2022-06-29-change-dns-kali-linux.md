@@ -98,7 +98,7 @@ nameserver 192.168.1.1
 
 ### Modifying resolvconf base and resolv.conf file with new servers
 
-- You can see that it is still pointing to my router gateway address. First we need to make changes in resolvconf base file and then we will modify network interfaces file
+- First we need to make changes in resolvconf base file and then we will modify network interfaces file
 ```text
 libta@kali:~# sudo nano /etc/resolvconf/resolv.conf.d/base
 ```
