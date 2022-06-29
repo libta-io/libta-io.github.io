@@ -32,9 +32,8 @@ To use a Google Dork, you simply type in a Dork into the search box on Google an
 ## Search Operators
 
 **cache**:
-```text
-- [cache:www.google.com web] will show the cached content with the word “web” highlighted. This functionality is also accessible by clicking on the “Cached” link on Google’s main results page. The query [cache:] will show the version of the web page that Google has in its cache. For instance, [cache:www.google.com] will show Google’s cache of the Google homepage.
-```
+* [cache:www.google.com web] will show the cached content with the word “web” highlighted. This functionality is also accessible by clicking on the “Cached” link on Google’s main results page. The query [cache:] will show the version of the web page that Google has in its cache. For instance, [cache:www.google.com] will show Google’s cache of the Google homepage.
+
 **link**:
 ```text
 * [link:www.google.com] will list webpages that have links pointing to the Google homepage.
