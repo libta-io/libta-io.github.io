@@ -35,49 +35,38 @@ To use a Google Dork, you simply type in a Dork into the search box on Google an
 * [cache:www.google.com web] will show the cached content with the word “web” highlighted. This functionality is also accessible by clicking on the “Cached” link on Google’s main results page. The query [cache:] will show the version of the web page that Google has in its cache. For instance, [cache:www.google.com] will show Google’s cache of the Google homepage.
 
 **link**:
-```text
 * [link:www.google.com] will list webpages that have links pointing to the Google homepage.
-```
+
 **related**:
-```text
 * [related:www.google.com] will list web pages that are similar to the Google homepage.
-```
+
 **info**:
-```text
 * [info:www.google.com] will show information about the Google homepage.
-```
+
 **define**:
-```text
 * The query [define:] will provide a definition of the words you enter after it, gathered from various online sources. The definition will be for the entire phrase entered (i.e., it will include all the words in the exact order you typed them). Eg: [define:google]
-```
+
 **stocks**:
-```text
 * If you begin a query with the [stocks:] operator, Google will treat the rest of the query terms as stock ticker symbols, and will link to a page showing stock information for those symbols. For instance, [stocks: intc yhoo] will show information about Intel and Yahoo. (Note you must type the ticker symbols, not the company name.)
-```
+
 **site**:
-```text
 * If you include [site:] in your query, Google will restrict the results to those websites in the given domain. For instance, [help site:www.google.com] will find pages about help within www.google.com. [help site:com] will find pages about help within .com urls. Note there can be no space between the “site:” and the domain.
-```
+
 **allintitle**:
-```text
 * If you start a query with [allintitle:], Google will restrict the results to those with all of the query words in the title. For instance, [allintitle: google search] will return only documents that have both “google” and “search” in the title.
-```
+
 **intitle**:
-```text
 * If you include [intitle:] in your query, Google will restrict the results to documents containing that word in the title. For instance, [intitle:google search] will return documents that mention the word “google” in their title, and mention the word “search” anywhere in the document (title or no). Putting [intitle:] in front of every word in your query is equivalent to putting [allintitle:] at the front of your query: [intitle:google intitle:search] is the same as [allintitle: google search].
-```
+
 **allinurl**:
-```text
 * If you start a query with [allinurl:], Google will restrict the results to those with all of the query words in the url. For instance, [allinurl:google search] will return only documents that have both “google” and “search” in the url. Note that [allinurl:] works on words, not url components. In particular, it ignores punctuation. Thus, [allinurl: foo/bar] will restrict the results to page with the words “foo” and “bar” in the url, but won’t require that they be separated by a slash within that url, that they be adjacent, or that they be in that particular word order. There is currently no way to enforce these constraints.
-```
+
 **inurl**:
-```text
 * If you include [inurl:] in your query, Google will restrict the results to documents containing that word in the url. For instance, [inurl:google search] will return documents that mention the word “google” in their url, and mention the word “search” anywhere in the document (url or no). Putting “inurl:” in front of every word in your query is equivalent to putting “allinurl:” at the front of your query: [inurl:google inurl:search] is the same as [allinurl: google search].
-```
+
 **filetype**:
-```text
 * If you include [filetype:] in your query, Google will restrict the results to a certain file format (Word, PDF, Excel, Powerpoint...). For instance, [filetype:PDF google search] will return PDF documents that mention the words "google search" anywhere in the document format that was searched.
-```
+
 ## Google Dorks Updated Database
 
 ```text
