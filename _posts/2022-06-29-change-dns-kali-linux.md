@@ -72,6 +72,7 @@ libta@kali:~# sudo systemctl enable resolvconf.systemctl
 Syncronizing state of resolvconf.service with SysV service script with /lib/systemd/system-sysv-install.
 Executing: /lib/systemd/systemd-sysv-install enable resolvconf
 Created symlink /etc/systemd/system/sysinit.target.wants/resolvconf.service → /lib/systemd/system/resolvconf.service.
+```
 ```text
 libta@kali:~# sudo systemctl start resolvconf.service
 libta@kali:~# sudo systemctl status resolvconf.service
