@@ -389,7 +389,7 @@ inurl:weblogin intitle:("USG20-VPN"|"USG20W-VPN"|USG40|USG40W|USG60|
 * Run regular dork queries against your website to discover the sensitive information.
 * Request removal of sensitive information if found via google search console
 
-https://support.google.com/webmasters/answer/9689846?hl=en&visit_id=637871614748203924-38706967&rd=1
+[(https://support.google.com/webmasters/answer/9689846?hl=en&visit_id=637871614748203924-38706967&rd=1)]
 
 * Block sensitive content by using a robots.txt file located in your root-level website directory.
 
