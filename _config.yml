@@ -14,7 +14,7 @@ repository: "libta-io/libta-io.github.io"
 github_username: libta-io
 minimal_mistakes_skin: dark
 # teaser: /assets/images/500x300.png
-logo: "/assets/images/Libta.jpg"
+logo: "/assets/images/libta.jpg"
 search: true
 breadcrumbs: true
 
@@ -64,7 +64,7 @@ plugins:
 
 author:
   name   : 
-  avatar : "/assets/images/Libta.jpg"
+  avatar : "/assets/images/libta.jpg"
   bio    : "IT and cybersecurity enthusiast."
   links:
     - label: "Website"
