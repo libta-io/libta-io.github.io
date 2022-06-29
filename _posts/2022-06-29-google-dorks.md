@@ -426,6 +426,6 @@ Google search service is never intended to gain unauthorised access of data but 
 Essentially emails, username, passwords, financial data and etc. shouldn’t be available in public until and unless it’s meant to be. Example, our details with the bank are never expected to be available in a google search. But our social media details are available in public because we ourselves allowed it.
 
 **Disclaimer**:
-This article is written to provide relevant information only and is for educational purposes. Confidentiality and data security must always be respected.
+The purpose of this article is to provide relevant information only, and for educational purposes. Confidentiality and data security must always be respected.
 
 Thanks for reading!
