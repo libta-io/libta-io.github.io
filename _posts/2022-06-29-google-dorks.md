@@ -17,6 +17,16 @@ tags:
 
 <!--more-->
 
+## Table of Contents <!-- omit in toc -->
+
+- [What is Google Dorks?](#What is Google Dorks?)
+  - [How to Use Google Dorks?](How to Use Google Dorks?)
+- [Search Operators](Search Operators)
+  - [Google Dorks Updated Database](Google Dorks Updated Database)
+  - [Special search string to find vulnerable websites](Special search string to find vulnerable websites)
+- [How to safeguard information from Google Dorks?](How to safeguard information from Google Dorks?)
+- [Conclusion](Conclusion)
+
 ## What is Google Dorks?
 
 Google Dorking, also known as Google hacking, is the method capable of returning the information difficult to locate through simple search queries by providing a search string that uses advanced search operators. 
