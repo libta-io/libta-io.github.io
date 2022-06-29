@@ -7,6 +7,7 @@ excerpt_separator:  <!--more-->
 categories:
   - Hacking
 tags:
+  - Kali
   - Guides
   - DNS
   - Helpful
