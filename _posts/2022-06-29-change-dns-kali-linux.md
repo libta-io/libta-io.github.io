@@ -34,7 +34,7 @@ libta@kali:~# cat /etc/resolv.conf
 nameserver 192.168.1.1
 ```
 
-**Install and start resolvconf service**:
+## Install and start resolvconf service
 
 By default, Kali doesn’t have the resolvconf service pre-installed.
 
@@ -94,7 +94,7 @@ libta@kali:~# cat /etc/resolv.conf
 nameserver 192.168.1.1
 ```
 
-**Modifying resolvconf base and resolv.conf file with new servers**:
+## Modifying resolvconf base and resolv.conf file with new servers
 
 You can see that it is still pointing to my router gateway address. First we need to make changes in resolvconf base file and then we will modify network interfaces file:
 ```text
