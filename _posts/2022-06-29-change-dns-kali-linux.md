@@ -8,10 +8,8 @@ categories:
   - Hacking
 tags:
   - Guides
-  - Anonymity
   - DNS
   - Helpful
-  - Privacy
 ---
 
 <!--more-->
