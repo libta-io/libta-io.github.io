@@ -44,7 +44,7 @@ Resolving deltas: 100% (99/99), done.
 
 **Now change the directory and go to the kali-anonsurf run the installer script**
 ```text
-libta@kali:~/anonymity/Anonsurf/# cd kali-anonsurf
+libta@kali:~/anonymity/Anonsurf# cd kali-anonsurf
 ```
 ```text
 libta@kali:~/anonymity/Anonsurf/kali-anonsurf# sudo ./installer.sh
