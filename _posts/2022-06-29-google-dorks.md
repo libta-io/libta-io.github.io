@@ -406,8 +406,6 @@ Google Dorks are extremely powerful. They allow you to search for a wide variety
 
 Because of the power of Google Dorks, they are often used by hackers to find information about their victims or to find information that can be used to exploit vulnerabilities in websites and web applications.
 
-> Google Dork is a search query we give to Google to search for more granular information and quickly retrieve relevant information. For example, try searching for your name and check the results with a search query [inurl:your-name]. Analyze the difference. You just asked Google to do a more in-depth search and it did.
-
 Google search service is never intended to gain unauthorised access of data but nothing can be done if we ourselves kept data in the open and do not follow proper security mechanisms.
 
 Essentially emails, username, passwords, financial data and etc. shouldn’t be available in public until and unless it’s meant to be. Example, our details with the bank are never expected to be available in a google search. But our social media details are available in public because we ourselves allowed it.
