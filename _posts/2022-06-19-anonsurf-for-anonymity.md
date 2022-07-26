@@ -6,6 +6,7 @@ toc_sticky: true
 excerpt_separator:  <!--more-->
 categories:
   - Hacking
+  - Kali Linux
 tags:
   - Kali
   - Guides
