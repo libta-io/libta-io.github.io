@@ -5,6 +5,7 @@ toc: true
 toc_sticky: true
 excerpt_separator:  <!--more-->
 categories:
+  - Kali Linux
   - Hacking
 tags:
   - Kali
