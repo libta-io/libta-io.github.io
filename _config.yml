@@ -7,7 +7,7 @@
 # in the templates via {{ site.myvariable }}.
 # locale: en-GB
 title: libta.io
-subtitle: "Blog of a computer science and cybersecurity enthusiast."
+subtitle: "Computer science & cybersecurity."
 description: "Self-taught computer scientis. Future IT/cybersecurity engineer."
 repository: "libta-io/libta-io.github.io"
 
