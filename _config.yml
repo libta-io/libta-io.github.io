@@ -8,7 +8,7 @@
 # locale: en-GB
 title: libta.io
 subtitle: "Computer science & cybersecurity."
-description: "Self-taught computer scientis. Future IT/cybersecurity engineer."
+description: "Self-taught computer scientist."
 repository: "libta-io/libta-io.github.io"
 
 github_username: libta-io
@@ -65,7 +65,7 @@ plugins:
 author:
   name   : 
   avatar : "/assets/images/libta.jpg"
-  bio    : "Self-taught computer scientis. Future IT/cybersecurity engineer."
+  bio    : "Self-taught computer scientist."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
