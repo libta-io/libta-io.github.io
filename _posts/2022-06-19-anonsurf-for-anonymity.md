@@ -112,4 +112,6 @@ libta@kali:~/anonymity/Anonsurf/kali-anonsurf# anonsurf myip
 libta@kali:~/anonymity/Anonsurf/kali-anonsurf# anonsurf status
 ```
 
+**Disclaimer**: All activities in this article are for educational purposes only.
+
 Thanks for reading!
