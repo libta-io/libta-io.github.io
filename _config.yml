@@ -65,7 +65,7 @@ plugins:
 author:
   name   : 
   avatar : "/assets/images/libta.jpg"
-  bio    : "Self-taught computer scientist and future computer engineer."
+  bio    : "Self-taught computer scientis. Future IT/cybersecurity engineer."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
