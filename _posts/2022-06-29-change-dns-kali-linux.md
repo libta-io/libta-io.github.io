@@ -1,5 +1,5 @@
 ---
-title: "Change DNS in Kali Linux"
+title: "Change DNS In Kali Linux"
 header:
 toc: true
 toc_sticky: true
